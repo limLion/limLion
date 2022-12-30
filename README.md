@@ -42,7 +42,9 @@
   <img src="https://img.shields.io/badge/VS code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white"/></a>
   <img src ="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white" />
   <img src ="https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=Figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a><br/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
+  </br>
+<br>
 
 ### 🪐 __Blog__ 🪐
 <br>
