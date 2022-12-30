@@ -37,7 +37,7 @@
  <br>
  
 
-### 🪐 __ETC__ 🪐
+### 🪐 __Etc__ 🪐
 <br>
   <img src="https://img.shields.io/badge/VS code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white"/></a>
   <img src ="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white" />
