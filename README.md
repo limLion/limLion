@@ -46,10 +46,3 @@
   </br>
 <br>
 
-### 🪐 __Blog__ 🪐
-<br>
-<a href="https://velog.io/@limlion1128">
-<img src="https://img.shields.io/badge/-Velog-%2354BCAB#:~:text=Velog-,Velog">
-</div>
-<br>
-<br>
