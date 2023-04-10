@@ -1,8 +1,8 @@
-<h2>✨ Hi, I'm Ye Lim ✨</h2> 
+<h2>Hi, I'm Ye Lim<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2> 
 🏫 Soongsil University, Software Engineering
 <br>
 <br>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
+
 
 ```
 class Yelim:
