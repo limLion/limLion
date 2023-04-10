@@ -1,4 +1,3 @@
-<div align="center">
 <h2>✨ Hi, I'm Ye Lim ✨</h2> 
 🏫 Soongsil University, Software Engineering
 <br>
@@ -6,9 +5,9 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
 <br>
 <br>
-</div>
 
-```python
+
+```
 class Yelim:
 
     def __init__(self):
@@ -23,7 +22,5 @@ class Yelim:
     def say_hi(self):
         print("👋")
 ```
-       
-</div>
-
+    
 
