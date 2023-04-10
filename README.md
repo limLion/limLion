@@ -4,7 +4,7 @@
 <br>
 
 
-```
+```python
 class Yelim:
 
     def __init__(self):
@@ -12,7 +12,7 @@ class Yelim:
         self.hobby = ["📚", "✍🏻"]
         self.skill = {
             "code": ["Python", "Java", "Javascript", "HTML", "CSS"],
-            "tool": ["Django", "Node", "MySQL", "prostgreSQL", "AWS"]
+            "tool": ["Django", "Node", "MySQL", "ProstgreSQL", "AWS"]
         }
 
 
