@@ -11,8 +11,8 @@ class Yelim:
         self.name = "Jung Ye Lim"
         self.hobby = ["📚", "✍🏻"]
         self.skill = {
-            "code": ["Python", "Java", "Javascript", "HTML", "CSS"],
-            "tool": ["Django", "Node", "MySQL", "ProstgreSQL", "AWS"]
+            "code": ["Python", "Java", "Javascript"],
+            "tool": ["Django", "Node", "Spring", "MySQL", "ProstgreSQL", "AWS"]
         }
 
 
