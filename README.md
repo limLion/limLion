@@ -19,6 +19,10 @@ class Yelim:
         
 ```
 
+
+<br>
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/yel-m" width=550/>
+  <img src="https://render.gitanimals.org/farms/yel-m" width=400/>
 </a>
+
