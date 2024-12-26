@@ -4,24 +4,6 @@
 
 <br>
 <br>
-
-
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/yel-m?pet-id=656798793011416781"
-    width="300"
-    height="120"
-  />
-</a>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/yel-m?pet-id=656789289033137948"
-    width="300"
-    height="120"
-  />
-</a>
   
   
 
